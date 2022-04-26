@@ -1,0 +1,11 @@
+* {
+    background-color: rgb(44, 204, 248);
+    /* border: 1px solid red; */
+    /* height: 100%; */
+}
+
+.wrapper {
+    margin:  0px auto;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
